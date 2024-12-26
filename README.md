@@ -1,5 +1,5 @@
-# Heart_disease_prediction
-# BeWell Heart Disease Prediction System
+# Heart_disease_prediction_system
+
 
 The **BeWell Heart Disease Prediction System** is a machine learning-based application designed to predict the likelihood of heart disease in individuals based on various health-related features. It uses historical health data to train machine learning models that can classify individuals as "at risk" or "not at risk" for heart disease.
 
